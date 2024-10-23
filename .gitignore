@@ -7,4 +7,7 @@
 /Application/bin/
 /Application/obj/
 
+/Infrastructure/bin/
+/Infrastructure/obj/
+
 /.idea/
