@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wildguard.Api", "Wildguard.Api\Wildguard.Api.csproj", "{F792DBCB-9D99-4453-8257-C01C51C8463F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{051F7974-B916-4DA0-A97C-856B3954BF87}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{F792DBCB-9D99-4453-8257-C01C51C8463F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F792DBCB-9D99-4453-8257-C01C51C8463F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F792DBCB-9D99-4453-8257-C01C51C8463F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{051F7974-B916-4DA0-A97C-856B3954BF87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{051F7974-B916-4DA0-A97C-856B3954BF87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{051F7974-B916-4DA0-A97C-856B3954BF87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{051F7974-B916-4DA0-A97C-856B3954BF87}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

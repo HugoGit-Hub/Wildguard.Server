@@ -1,3 +1,7 @@
 ﻿/Wildguard.Api/bin/
 /Wildguard.Api/obj/
+
+/Domain/bin/
+/Domain/obj/
+
 /.idea/
