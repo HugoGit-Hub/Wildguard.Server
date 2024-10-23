@@ -10,5 +10,8 @@
 /src/Infrastructure/bin/
 /src/Infrastructure/obj/
 
+/test/Test/bin/
+/test/Test/obj/
+
 /src/.idea/
 /.idea/
