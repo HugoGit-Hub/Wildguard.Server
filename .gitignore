@@ -4,4 +4,7 @@
 /Domain/bin/
 /Domain/obj/
 
+/Application/bin/
+/Application/obj/
+
 /.idea/
