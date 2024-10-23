@@ -1,0 +1,20 @@
+Plateforme de signalement et de suivi des espèces en danger
+Une application où les utilisateurs peuvent signaler des observations d’espèces protégées dans leur région. Ces données pourraient être collectées pour aider à la surveillance des populations et des habitats naturels. Des alertes locales pourraient aussi être envoyées en cas de menaces environnementales (feux, déforestation, etc.).
+
+Répertoire d'adoption et de soins pour animaux en refuge
+Une plateforme dédiée à la mise en relation entre refuges pour animaux et personnes cherchant à adopter. En plus des profils d’animaux disponibles à l’adoption, il pourrait y avoir des conseils et des informations sur les soins, la réhabilitation, et des ressources pour adopter de manière responsable.
+
+Conseiller éthique pour produits animaliers
+Un site qui aide les propriétaires d'animaux à trouver des produits éthiques et durables pour leurs compagnons (nourriture bio, jouets sans plastique, produits de soins non testés sur les animaux). Il pourrait inclure un classement des marques selon leur engagement pour le bien-être animal et l’environnement.
+
+Carte interactive des espaces naturels protégés
+Un outil interactif qui cartographie les espaces protégés, sanctuaires et réserves naturelles. Les utilisateurs pourraient consulter des informations sur les animaux qui y vivent, les meilleures périodes pour observer certaines espèces, et les règles à suivre pour protéger ces lieux.
+
+Programme de sensibilisation pour les espèces menacées
+Une plateforme éducative destinée aux écoles et aux familles, qui propose des modules interactifs sur la protection des espèces menacées, avec des vidéos, des quiz, et des outils de participation active comme des actions concrètes à réaliser pour aider la faune locale.
+
+Système d'alerte pour le braconnage et les abus contre les animaux
+Une application permettant aux citoyens de signaler anonymement des actes de braconnage ou des mauvais traitements d’animaux. Ces rapports seraient envoyés à des organisations locales pour qu’elles puissent agir plus rapidement.
+
+Communauté de bénévoles pour la protection animale
+Une plateforme sociale pour connecter les personnes souhaitant devenir bénévoles dans des refuges, des centres de réhabilitation d’animaux, ou participer à des actions locales pour la protection des espèces menacées. Elle pourrait inclure un système de géolocalisation pour faciliter l'organisation des événements locaux.
