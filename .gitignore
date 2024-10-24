@@ -15,3 +15,5 @@
 
 /src/.idea/
 /.idea/
+
+/src/Api/appsettings.Development.json
